@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">spirala1</string>
+    <string-array name="SpinnerModovi">
+        <item>Medicinski</item>
+        <item>Kuharski</item>
+        <item>Botanički</item>
+    </string-array>
+    <string-array name="Boje">
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+        <item>Orange</item>
+        <item>Purple</item>
+        <item>Brown</item>
+        <item>Green</item>
+    </string-array>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
